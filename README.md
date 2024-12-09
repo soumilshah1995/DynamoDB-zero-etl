@@ -277,7 +277,7 @@ if __name__ == "__main__":
 
 # Athena 
 ```
-SELECT * FROM "default"."zetl_integration_table_state" limit 10;
+SELECT * FROM "default"."user" limit 10;
 ```
 
 
